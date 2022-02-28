@@ -1,6 +1,7 @@
-# WINDOWS App 
+# Windows App 
 
-# Funciona mas na base dos Macetes, não dá hot-reload e nem restart
+## Funciona mas na base dos Macetes,
+## não dá hot-reload e nem restart
 
 ## Para rodar
 
